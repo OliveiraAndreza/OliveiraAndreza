@@ -2,6 +2,20 @@
 ---
 ## Ferramentas e Tecnologias
 ---
+JavaScript
+
+TypeScript
+
+React.js
+
+CSS
+
+HTML
+
+Next.js
+
+Node.js
+
 DevOps
 
 Metodologias Ágeis (Agile)
