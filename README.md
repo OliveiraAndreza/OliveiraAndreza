@@ -8,6 +8,8 @@ TypeScript
 
 React.js
 
+SQL
+
 CSS
 
 HTML
