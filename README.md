@@ -4,6 +4,10 @@
 ---
 JavaScript
 
+Python
+
+Java
+
 TypeScript
 
 React.js
@@ -21,8 +25,6 @@ Node.js
 DevOps
 
 Metodologias Ágeis (Agile)
-
-Python
 
 GitHub
 
